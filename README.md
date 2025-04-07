@@ -44,7 +44,7 @@ API Integration
 
 🌟 Usage
 
-1. Open the app in your browser at http://localhost:3000.
+1. Open the app in your browser at https://passwordrestflow-task.netlify.app/
 2. Use the registration page to create a new account.
 3. Login with existing credentials or reset your password using the "Forgot Password?" link.
 
